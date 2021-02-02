@@ -1,45 +1,45 @@
 {
-  "bg": "https://www.globalgeek.com.br/wp-content/uploads/2019/05/Image09.jpg",
-  "title": "Python Quiz",
-  "description": "Um quiz rápido sobre o mundo do Python",
+  "bg": "https://wallpaperaccess.com/full/1184927.png",
+  "title": "Plus Ultra Quiz",
+  "description": "Um quiz rápido sobre os personagens de Boku no Hero",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/j5P0DQIOf4PonLi55G/giphy.gif",
-      "title": "Qual a diferença entre = , == e === ?",
-      "description": "Pergunta fácil em!",
-      "answer": 1,
-      "alternatives": [
-        "São a mesma coisa",
-        "O = significa atribuição de valor. Já == verifica a igualdade do valor, enquanto === verifica valor e tipo de variável."
-      ]
-    },
-    {
-      "image": "https://media.giphy.com/media/Ie2Hs3A0uJRtK/giphy.gif",
-      "title": "Que tipos de dados são suportados em JavaScript?",
-      "description": "E agora? Você sabe?",
+      "image": "https://media1.tenor.com/images/0673e7dbcc4621b04c37f0db07d8f0c0/tenor.gif",
+      "title": "Quem é este personagem?",
+      "description": "Pergunta com dificuldade mediana!",
       "answer": 0,
       "alternatives": [
-        "Number, String, Undefined, Null e Bool.",
-        "Int, String, Undefined, Null e Bool."
+        "Dabi",
+        "Deko"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/iI4vhciiVh2b3j9sgo/giphy.gif",
-      "title": "Qual a diferença de window e global?",
+      "image": "https://pa1.narvii.com/7410/1acadc118a8642100906cbfdafb763162194066fr1-540-304_hq.gif",
+      "title": "Qual é o nome de Super Herói desse personagem?",
+      "description": "E agora? Você sabe?",
       "answer": 1,
       "alternatives": [
-        "São a mesma coisa",
-        "window é o escopo global no browser, e global no node"
+        "Meio Frio Meio Quente",
+        "Shoto"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/iI4vhciiVh2b3j9sgo/giphy.gif",
-      "title": "Qual a forma antiga de trabalhar com AJAX na Web?",
-      "answer": 1,
+      "image": "https://i.pinimg.com/originals/67/d8/f4/67d8f4d02ba48436f80d6cf9a82060c2.gif",
+      "title": "Quem é o maior inimigo dessa pessoa?",
+      "answer": 0,
       "alternatives": [
-        "JSONHttpRequest",
-        "XMLHttpRequest",
-        "fetch"
+        "All for One",
+        "One for All"
+      ]
+    },
+    {
+      "image": "https://pa1.narvii.com/7654/0063ed8fb7e535f2534bbeee29bcec3c9366ca8dr1-540-290_hq.gif",
+      "title": "Qual é o nome desse personagem",
+      "answer": 0,
+      "alternatives": [
+        "Dark Shadow",
+        "Fumikage",
+        "Shadow"
       ]
     }
   ],
