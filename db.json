@@ -10,7 +10,9 @@
       "answer": 0,
       "alternatives": [
         "Dabi",
-        "Deko"
+        "Deko",
+        "Bida",
+        "Dako"
       ]
     },
     {
@@ -30,6 +32,16 @@
       "alternatives": [
         "All for One",
         "One for All"
+      ]
+    },
+    {
+      "image": "https://pa1.narvii.com/7065/0f6d0221ea451ecc3fd8ad5ed5c3f99d553fb739r1-500-250_hq.gif",
+      "title": "Qual é o poder da Ochaco Uraraka?",
+      "answer": 2,
+      "alternatives": [
+        "Controla a água",
+        "Explosão",
+        "Gravidade"
       ]
     },
     {
